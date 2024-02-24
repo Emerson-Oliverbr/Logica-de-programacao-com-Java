@@ -1,11 +1,11 @@
-#Descrição:
+# Descrição:
 
 Neste curso abrangente de lógica de programação com Java vou aprender e me capacitar para construir programas robustos e eficientes. 
 
 ## O que vou aprender:
 
-## Sintaxe básica da linguagem Java
-## Boas práticas de desenvolvimento
+* Sintaxe básica da linguagem Java
+* Boas práticas de desenvolvimento
 
 ## Introdução a Lógica de Programação com Java
 
