@@ -1,8 +1,2 @@
 INDEX VERSION 1.134+/home/emerson/Documentos/Logica-de-programacao-com-Java/.metadata/.plugins/org.eclipse.jdt.core
 1865797976.index
-2497734807.index
-4193458204.index
-3293517805.index
-3941900218.index
-4202912038.index
-3207906756.index
